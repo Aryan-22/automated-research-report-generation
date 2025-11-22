@@ -18,4 +18,5 @@ sqlalchemy==2.0.44
 bcrypt==5.0.0
 passlib==1.7.4
 python-multipart==0.0.20
-structlog==25.5.0
+structlog>=25.4
+-e .    
