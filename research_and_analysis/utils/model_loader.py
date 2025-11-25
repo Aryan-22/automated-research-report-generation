@@ -113,7 +113,7 @@ class ModelLoader:
         """
         try:
             llm_block = self.config["llm"]
-            provider_key = os.getenv("LLM_PROVIDER", "openai")
+            provider_key = os.getenv("LLM_PROVIDER", "google")
 
             if provider_key not in llm_block:
                 log.error("LLM provider not found in configuration", provider=provider_key)
@@ -139,13 +139,6 @@ class ModelLoader:
                 llm = ChatGroq(
                     model=model_name,
                     api_key=self.api_key_mgr.get("GROQ_API_KEY"),
-                    temperature=temperature,
-                )
-
-            elif provider == "openai":
-                llm = ChatOpenAI(
-                    model=model_name,
-                    api_key=self.api_key_mgr.get("OPENAI_API_KEY"),
                     temperature=temperature,
                 )
 

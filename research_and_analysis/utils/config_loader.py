@@ -10,7 +10,6 @@ def _project_root() -> Path:
     """
     Determine the absolute path of the project root directory.
     Example:
-        /Users/sunny/automated-research-report-generation/research_and_analyst
     """
     return Path(__file__).resolve().parents[1]
 
@@ -67,6 +66,7 @@ def load_config(config_path: str | None = None) -> dict:
 # ----------------------------------------------------------------------
 # 🔹 Test Run (Standalone)
 # ----------------------------------------------------------------------
+print(_project_root())
 if __name__ == "__main__":
     try:
         config = load_config()

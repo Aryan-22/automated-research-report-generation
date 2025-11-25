@@ -1,0 +1,31 @@
+{"timestamp": "2025-11-22T11:36:12.420190Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-22T11:36:12.421218Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-22T11:36:12.422217Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-22T11:36:12.423451Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": [], "timestamp": "2025-11-22T11:36:12.425453Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": [], "timestamp": "2025-11-22T11:36:12.427452Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"error": "'llm'", "timestamp": "2025-11-22T11:36:12.427452Z", "level": "error", "event": "Error loading LLM"}
+{"timestamp": "2025-11-22T11:40:00.800348Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-22T11:40:00.801343Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-22T11:40:00.802344Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-22T11:40:00.803344Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-11-22T11:40:00.808601Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["astra_db", "embedding_model", "retriever", "llm"], "timestamp": "2025-11-22T11:40:00.809592Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "openai", "model": "gpt-4o", "timestamp": "2025-11-22T11:40:00.810660Z", "level": "info", "event": "Loading LLM"}
+{"error": "The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable", "timestamp": "2025-11-22T11:40:01.273064Z", "level": "error", "event": "Error loading LLM"}
+{"timestamp": "2025-11-22T11:41:09.250975Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-22T11:41:09.252977Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-22T11:41:09.252977Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-22T11:41:09.254186Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-22T11:41:09.257185Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-22T11:41:09.259199Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "openai", "timestamp": "2025-11-22T11:41:09.260185Z", "level": "error", "event": "LLM provider not found in configuration"}
+{"error": "LLM provider 'openai' not found in configuration", "timestamp": "2025-11-22T11:41:09.262186Z", "level": "error", "event": "Error loading LLM"}
+{"timestamp": "2025-11-22T11:53:13.754134Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-22T11:53:13.756597Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-22T11:53:13.756597Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-22T11:53:13.759048Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-22T11:53:13.763726Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-22T11:53:13.765742Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "openai", "timestamp": "2025-11-22T11:53:13.765742Z", "level": "error", "event": "LLM provider not found in configuration"}
+{"error": "LLM provider 'openai' not found in configuration", "timestamp": "2025-11-22T11:53:13.766743Z", "level": "error", "event": "Error loading LLM"}

@@ -39,4 +39,5 @@ license = { text = "Proprietary" }
 
 [tool.setuptools.packages.find]
 where = ["research_and_analysis"]
+include = ["automated_research_report_generation"]
 
