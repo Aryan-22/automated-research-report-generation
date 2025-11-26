@@ -1,0 +1,8 @@
+{"timestamp": "2025-11-26T09:53:40.974512Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-26T09:53:40.974512Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-26T09:53:40.974512Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-26T09:53:40.974512Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-26T09:53:40.974512Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-26T09:53:40.974512Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "google", "model": "gemini-2.0-flash", "timestamp": "2025-11-26T09:53:40.974512Z", "level": "info", "event": "Loading LLM"}
+{"provider": "google", "model": "gemini-2.0-flash", "timestamp": "2025-11-26T09:53:40.993007Z", "level": "info", "event": "LLM loaded successfully"}
