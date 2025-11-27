@@ -6,3 +6,19 @@
 {"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-26T09:53:40.974512Z", "level": "info", "event": "YAML configuration loaded successfully"}
 {"provider": "google", "model": "gemini-2.0-flash", "timestamp": "2025-11-26T09:53:40.974512Z", "level": "info", "event": "Loading LLM"}
 {"provider": "google", "model": "gemini-2.0-flash", "timestamp": "2025-11-26T09:53:40.993007Z", "level": "info", "event": "LLM loaded successfully"}
+{"timestamp": "2025-11-26T17:41:14.135696Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-26T17:41:14.137696Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-26T17:41:14.138698Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-26T17:41:14.139698Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-26T17:41:14.142698Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-26T17:41:14.143697Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "google", "model": "gemini-2.0-flash", "timestamp": "2025-11-26T17:41:14.145566Z", "level": "info", "event": "Loading LLM"}
+{"provider": "google", "model": "gemini-2.0-flash", "timestamp": "2025-11-26T17:41:14.186170Z", "level": "info", "event": "LLM loaded successfully"}
+{"timestamp": "2025-11-26T17:48:22.981961Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-26T17:48:22.981961Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-26T17:48:22.982961Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-26T17:48:22.983834Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-26T17:48:22.987796Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-26T17:48:22.989053Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "google", "model": "gemini-2.0-flash", "timestamp": "2025-11-26T17:49:33.137679Z", "level": "info", "event": "Loading LLM"}
+{"provider": "google", "model": "gemini-2.0-flash", "timestamp": "2025-11-26T17:49:33.153361Z", "level": "info", "event": "LLM loaded successfully"}
