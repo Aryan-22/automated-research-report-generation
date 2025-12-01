@@ -1,0 +1,206 @@
+{"timestamp": "2025-11-29T21:20:20.932935Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-29T21:20:20.938117Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-29T21:20:20.938894Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-29T21:20:20.938894Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:20:20.938894Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:20:20.938894Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "groq", "model": "groqstar-8k", "timestamp": "2025-11-29T21:20:20.952580Z", "level": "info", "event": "Loading LLM"}
+{"provider": "groq", "model": "groqstar-8k", "timestamp": "2025-11-29T21:20:21.787917Z", "level": "info", "event": "LLM loaded successfully"}
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+{"provider": "groq", "model": "groqstar-8k", "timestamp": "2025-11-29T21:26:48.983774Z", "level": "info", "event": "Loading LLM"}
+{"provider": "groq", "model": "groqstar-8k", "timestamp": "2025-11-29T21:26:49.534487Z", "level": "info", "event": "LLM loaded successfully"}
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+{"timestamp": "2025-11-29T21:27:18.968661Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-29T21:27:18.970996Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-29T21:27:18.971997Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-29T21:27:18.972998Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:27:18.973403Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:27:18.973403Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "groq", "model": "qwen/qwen3-32b", "timestamp": "2025-11-29T21:27:18.988017Z", "level": "info", "event": "Loading LLM"}
+{"provider": "groq", "model": "qwen/qwen3-32b", "timestamp": "2025-11-29T21:27:19.543190Z", "level": "info", "event": "LLM loaded successfully"}
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+{"timestamp": "2025-11-29T21:27:40.328820Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-29T21:27:40.329592Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-29T21:27:40.330688Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-29T21:27:40.331993Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:27:40.332447Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:27:40.332447Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "groq", "model": "qwen/qwen3-32b", "timestamp": "2025-11-29T21:27:40.348653Z", "level": "info", "event": "Loading LLM"}
+{"provider": "groq", "model": "qwen/qwen3-32b", "timestamp": "2025-11-29T21:27:40.950248Z", "level": "info", "event": "LLM loaded successfully"}
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+{"timestamp": "2025-11-29T21:28:22.272484Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-29T21:28:22.273483Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-29T21:28:22.274484Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-29T21:28:22.275484Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:28:22.278483Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:28:22.278896Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "groq", "model": "qwen/qwen3-32b", "timestamp": "2025-11-29T21:28:22.287855Z", "level": "info", "event": "Loading LLM"}
+{"provider": "groq", "model": "qwen/qwen3-32b", "timestamp": "2025-11-29T21:28:22.862856Z", "level": "info", "event": "LLM loaded successfully"}
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 17.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 16.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+{"timestamp": "2025-11-29T21:30:35.054531Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-29T21:30:35.055538Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-29T21:30:35.057032Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-29T21:30:35.057032Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:30:35.061376Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:30:35.062373Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "groq", "model": "qwen/qwen3-32b", "timestamp": "2025-11-29T21:30:35.083637Z", "level": "info", "event": "Loading LLM"}
+{"provider": "groq", "model": "qwen/qwen3-32b", "timestamp": "2025-11-29T21:30:35.713635Z", "level": "info", "event": "LLM loaded successfully"}
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+{"timestamp": "2025-11-29T21:31:37.377757Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-29T21:31:37.378756Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-29T21:31:37.380933Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-29T21:31:37.381942Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:31:37.384940Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:31:37.385942Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "groq", "model": "qwen/qwen3-32b", "timestamp": "2025-11-29T21:31:37.396417Z", "level": "info", "event": "Loading LLM"}
+{"provider": "groq", "model": "qwen/qwen3-32b", "timestamp": "2025-11-29T21:31:37.993620Z", "level": "info", "event": "LLM loaded successfully"}
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 10.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 10.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 11.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 11.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 11.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+{"timestamp": "2025-11-29T21:34:07.126355Z", "level": "info", "event": "Initializing ApiKeyManager"}
+{"timestamp": "2025-11-29T21:34:07.127364Z", "level": "warning", "event": "OPENAI_API_KEY is missing in environment variables"}
+{"timestamp": "2025-11-29T21:34:07.128801Z", "level": "info", "event": "GOOGLE_API_KEY loaded successfully from environment"}
+{"timestamp": "2025-11-29T21:34:07.129333Z", "level": "info", "event": "GROQ_API_KEY loaded successfully from environment"}
+{"path": "C:\\Users\\aryan\\automated-research-report-generation\\research_and_analysis\\config\\configuration.yaml", "keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:34:07.131757Z", "level": "info", "event": "Configuration loaded successfully"}
+{"config_keys": ["embedding_model", "retriever", "llm"], "timestamp": "2025-11-29T21:34:07.131757Z", "level": "info", "event": "YAML configuration loaded successfully"}
+{"provider": "groq", "model": "llama-3.1-8b-instant", "timestamp": "2025-11-29T21:34:07.148220Z", "level": "info", "event": "Loading LLM"}
+{"provider": "groq", "model": "llama-3.1-8b-instant", "timestamp": "2025-11-29T21:34:07.690448Z", "level": "info", "event": "LLM loaded successfully"}
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 31.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 32.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"

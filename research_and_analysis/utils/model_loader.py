@@ -113,7 +113,7 @@ class ModelLoader:
         """
         try:
             llm_block = self.config["llm"]
-            provider_key = os.getenv("LLM_PROVIDER", "google")
+            provider_key = os.getenv("LLM_PROVIDER", "groq")
 
             if provider_key not in llm_block:
                 log.error("LLM provider not found in configuration", provider=provider_key)
@@ -127,15 +127,7 @@ class ModelLoader:
 
             log.info("Loading LLM", provider=provider, model=model_name)
 
-            if provider == "google":
-                llm = ChatGoogleGenerativeAI(
-                    model=model_name,
-                    google_api_key=self.api_key_mgr.get("GOOGLE_API_KEY"),
-                    temperature=temperature,
-                    max_output_tokens=max_tokens,
-                )
-
-            elif provider == "groq":
+            if provider == "groq":
                 llm = ChatGroq(
                     model=model_name,
                     api_key=self.api_key_mgr.get("GROQ_API_KEY"),

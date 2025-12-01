@@ -20,5 +20,6 @@ passlib==1.7.4
 python-multipart==0.0.20
 structlog>=25.4
 dotenv
+langgraph
 
 -e .    
